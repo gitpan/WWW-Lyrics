@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-Lyrics.t
+lib/WWW/Lyrics.pm
+lib/WWW/Lyrics/Results.pm
+lib/WWW/Lyrics/Page.pm
